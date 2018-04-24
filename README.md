@@ -34,7 +34,7 @@ Mostrar por pantalla el número de líneas que tiene el fichero.
 #### Actividad 11
 Mostrar por pantalla las primeras 4 lineas y las 2 últimas líneas del archivo.
 
-### Ejercicios grupos/usuarios y permisos.
+---
 
 #### Actividad 1
 Crea los grupos administradores y desarrolladores. Comprueba qúé GID  les asigna.
