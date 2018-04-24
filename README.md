@@ -36,6 +36,8 @@ Mostrar por pantalla las primeras 4 lineas y las 2 últimas líneas del archivo.
 
 ---
 
+### Ejercicios USUARIOS/GRUPOS y PERMISOS
+
 #### Actividad 1
 Crea los grupos administradores y desarrolladores. Comprueba qúé GID  les asigna.
 
